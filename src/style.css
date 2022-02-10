@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    background-color: rgb(148, 112, 112);
+}
+button{
+    width: 100px;
+    height: 55px;
+    background-color: rgb(148, 148, 241);
+
+}
+.button{
+    display: flex;
+    justify-content: center;
+    margin: 300px;
+
+}
+body{
+    background-image: url('https://media-cldnry.s-nbcnews.com/image/upload/newscms/2018_24/2462811/180612-memory-ideas-tricks-devices-ac-451p.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
