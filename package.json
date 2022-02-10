@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build",
+    "test": "echo \"This template does not include a test runner by default.\" && exit 1",
+    "format": "eslint --fix \"src/**/*.js\"",
+    "lint": "eslint \"src/**/*.js\""
+  },
+  "devDependencies": {
+    "eslint": "^8.8.0",
+    "eslint-plugin-react": "^7.28.0",
+    "snowpack": "^3.8.8"
+  }
+}
