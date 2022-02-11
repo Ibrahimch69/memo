@@ -12,3 +12,5 @@ https://keen-euler-a8cac6.netlify.app
 
 ### Voci aussi le lien des maquettes faites   avec figma : 
 https://www.figma.com/file/BhWv7ALCOU353ueSBzAURX/Untitled?node-id=0%3A1
+
+le trello : https://trello.com/invite/b/VQmbyuS4/c03d67610d8bcfb611487f3011d962a4/jeux
