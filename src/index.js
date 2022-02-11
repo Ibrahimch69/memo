@@ -6,7 +6,7 @@ import Ph from './Ph'
 let card1 = [new Ph(1, './image/chat.png', 'chat'), new Ph(2, './image/fille2.png', 'fille2'), new Ph(3, './image/homme.png', 'homme'), new Ph(4, './image/zombie.png', 'zombie'),new Ph(5, './image/robot.png', 'robot'),new Ph(5, './image/homme2.png', 'homme2')]
 
 let memoryGame = document.querySelector('.memory-game')
-
+//ici j'ai cree des div pour mettre tout les photo et les button 
 for(let i = 0; i < card1.length; i++){
   let creatediv = document.createElement('div');
   creatediv.setAttribute('class', 'memory-card');
@@ -46,7 +46,7 @@ let cards = document.querySelectorAll('.memory-card');
 let hasFlippedCard = false;
 let lockBoard = false;
 let firstCard, secondCard;
-
+//ici ses pour verfie si la card sont compatible et de les retourne juste 2 carte
 function flipCard() {
   if (lockBoard) return;
   if (this === firstCard) return;
