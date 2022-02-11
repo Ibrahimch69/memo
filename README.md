@@ -1,24 +1,14 @@
-# memo
+# jeux memory
 
-> ✨ Bootstrapped with Create Snowpack App (CSA).
+> ✨Un simple jeu pour trouve les bon carte est savoir si vous avez un bon memoire 
 
-## Available Scripts
-
+## Manuel D'installation 
+Après avoir cloné le projet, placez vous dans ce dossier et exécutez la commande suivante (Soyez sur d'avoir Node.js installé) :
+Une fois les nodes_module installés grâce à cette commande exécutez cette commande pour démarrer le serveur web local:
 ### npm start
 
-Runs the app in the development mode.
-Open http://localhost:8080 to view it in the browser.
+Si vous ne voulez pas installer mais jouer quand même :
+https://keen-euler-a8cac6.netlify.app
 
-The page will reload if you make edits.
-You will also see any lint errors in the console.
-
-### npm run build
-
-Builds a static copy of your site to the `build/` folder.
-Your app is ready to be deployed!
-
-**For the best production performance:** Add a build bundler plugin like [@snowpack/plugin-webpack](https://github.com/snowpackjs/snowpack/tree/main/plugins/plugin-webpack) or [snowpack-plugin-rollup-bundle](https://github.com/ParamagicDev/snowpack-plugin-rollup-bundle) to your `snowpack.config.mjs` config file.
-
-### Q: What about Eject?
-
-No eject needed! Snowpack guarantees zero lock-in, and CSA strives for the same.
+### Voci aussi le lien des maquettes faites   avec figma : 
+https://www.figma.com/file/BhWv7ALCOU353ueSBzAURX/Untitled?node-id=0%3A1
